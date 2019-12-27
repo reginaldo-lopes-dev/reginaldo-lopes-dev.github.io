@@ -30,11 +30,10 @@ p {
     border-radius: 50%;
 }
 .section {
-    background-color: #fff
-    ;
+    background-color: #dcdcdc;
     padding: 15px;
     margin-bottom: 10px;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 #header {
     background-image: url("https://cdn.pixabay.com/photo/2016/08/05/12/44/space-1572212_960_720.png");
@@ -49,11 +48,6 @@ p {
 #header p {
     font-size: 25pt;
     color: #e05719;
-    /*text-shadow: 1px 0px 0px #bfc1c2, 
-                 -1px 0px 0px #bfc1c2, 
-                 0px 1px 0px #bfc1c2, 
-                 0px -1px 0px #bfc1c2;
-                 */
     padding-top: 5px;
     margin: 0;
     font-weight: bold;
