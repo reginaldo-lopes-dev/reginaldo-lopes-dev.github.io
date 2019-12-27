@@ -35,6 +35,12 @@ p {
     margin-bottom: 10px;
     border-radius: 15px;
 }
+.section2 {
+    background-color: #dcdcdc;
+    padding: 25px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
 #header {
     background-image: url("https://cdn.pixabay.com/photo/2016/08/05/12/44/space-1572212_960_720.png");
     background-size: covaer;
